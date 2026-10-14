@@ -6,7 +6,7 @@ Spring Boot 3.3.5 starter for idempotent REST endpoints.
 
 ```xml
 <dependency>
-  <groupId>io.github.<usuario></groupId>
+  <groupId>io.github.KarelDuranSocarras</groupId>
   <artifactId>idempotency-spring-boot-starter</artifactId>
   <version>1.0.0-SNAPSHOT</version>
 </dependency>
